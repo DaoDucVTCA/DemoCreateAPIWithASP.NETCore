@@ -1,0 +1,12 @@
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/bin/Debug/netstandard2.0/DAL.deps.json
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/bin/Debug/netstandard2.0/DAL.dll
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/bin/Debug/netstandard2.0/DAL.pdb
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/bin/Debug/netstandard2.0/Persistence.dll
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/bin/Debug/netstandard2.0/Persistence.pdb
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.csprojAssemblyReference.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.csproj.CoreCompileInputs.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.AssemblyInfoInputs.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.AssemblyInfo.cs
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.csproj.CopyComplete
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.dll
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/obj/Debug/netstandard2.0/DAL.pdb

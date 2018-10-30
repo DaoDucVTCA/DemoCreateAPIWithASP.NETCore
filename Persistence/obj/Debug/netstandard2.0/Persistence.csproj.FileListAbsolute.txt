@@ -1,0 +1,9 @@
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
