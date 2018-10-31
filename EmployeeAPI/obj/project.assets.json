@@ -4388,20 +4388,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "BL/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "DAL": "1.0.0",
-          "Persistence": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/BL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BL.dll": {}
-        }
-      },
       "DAL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -11676,11 +11662,6 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "BL/1.0.0": {
-      "type": "project",
-      "path": "../BL/BL.csproj",
-      "msbuildProject": "../BL/BL.csproj"
-    },
     "DAL/1.0.0": {
       "type": "project",
       "path": "../DAL/DAL.csproj",
@@ -11694,7 +11675,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "BL >= 1.0.0",
+      "DAL >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -11729,8 +11710,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/BL/BL.csproj": {
-              "projectPath": "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/BL/BL.csproj"
+            "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/DAL.csproj": {
+              "projectPath": "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/DAL/DAL.csproj"
             },
             "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/Persistence.csproj": {
               "projectPath": "/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/Persistence/Persistence.csproj"

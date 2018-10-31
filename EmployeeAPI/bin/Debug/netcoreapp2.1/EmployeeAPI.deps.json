@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "EmployeeAPI/1.0.0": {
         "dependencies": {
-          "BL": "1.0.0",
+          "DAL": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
@@ -268,18 +268,6 @@
             "assemblyVersion": "4.0.2.0",
             "fileVersion": "4.6.25519.3"
           }
-        }
-      },
-      "BL/1.0.0": {
-        "dependencies": {
-          "DAL": "1.0.0",
-          "Persistence": "1.0.0"
-        },
-        "runtime": {
-          "BL.dll": {}
-        },
-        "compile": {
-          "BL.dll": {}
         }
       },
       "DAL/1.0.0": {
@@ -3336,11 +3324,6 @@
       "sha512": "sha512-WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "hashPath": "system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
-    },
-    "BL/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "DAL/1.0.0": {
       "type": "project",

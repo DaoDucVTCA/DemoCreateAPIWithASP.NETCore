@@ -1,4 +1,4 @@
-using BL;
+using DAL;
 using Microsoft.AspNetCore.Mvc;
 using Persistence;
 
@@ -12,8 +12,8 @@ namespace EmployeeAPI.Controllers
 
         public IActionResult GetEmployee()
         {
-            EmployeeBL empBL = new EmployeeBL();
-            Employee emp = empBL.GetEmployeeById(10001);
+            EmployeeDAL empDAL = new EmployeeDAL();
+            Employee emp = empDAL.GetEmployeeById(10001);
 
             return Ok(emp);
         }

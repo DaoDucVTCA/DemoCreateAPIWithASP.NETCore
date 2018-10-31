@@ -12,10 +12,8 @@
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/obj/Debug/netcoreapp2.1/EmployeeAPI.RazorTargetAssemblyInfo.cache
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/obj/Debug/netcoreapp2.1/EmployeeAPI.dll
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/obj/Debug/netcoreapp2.1/EmployeeAPI.pdb
-/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/BL.dll
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/DAL.dll
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/Persistence.dll
-/home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/BL.pdb
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/Persistence.pdb
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/bin/Debug/netcoreapp2.1/DAL.pdb
 /home/daoduc/Desktop/Learn/Fullstack/DemoCreateAPIWithASP.NETCore/EmployeeAPI/obj/Debug/netcoreapp2.1/EmployeeAPI.csproj.CopyComplete
